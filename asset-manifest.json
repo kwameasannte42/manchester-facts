@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/manchester-facts/static/css/main.c6261295.css",
+    "main.js": "/manchester-facts/static/js/main.6a29010c.js",
+    "static/media/manutd.png": "/manchester-facts/static/media/manutd.0defff68e825e1d0439f.png",
+    "index.html": "/manchester-facts/index.html",
+    "main.c6261295.css.map": "/manchester-facts/static/css/main.c6261295.css.map",
+    "main.6a29010c.js.map": "/manchester-facts/static/js/main.6a29010c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6261295.css",
+    "static/js/main.6a29010c.js"
+  ]
+}
