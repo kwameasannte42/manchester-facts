@@ -1,0 +1,11 @@
+body {
+  background-image: url(https://www.si.com/.image/t_share/MTg4ODgxMTI1MTI3NDk3MjQ4/imago1011329909h.jpg);
+  background-size: cover;
+}
+
+.container {
+  background-color: #fff;
+  padding: 1em;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
